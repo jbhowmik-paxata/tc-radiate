@@ -1,6 +1,6 @@
 ﻿var organizationSettings = {
     //The url that points to team city
-    teamCityUrl: '',
+    teamCityUrl: 'https://tc.paxatadev.com',
 
     //Only show builds for branches that satisfy the predicate
     branchFilter: function(branch) {
